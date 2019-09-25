@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Sugar Tracker</string>
+    <!--strings for login (mainActivity)-->
+    <string name="prompt_email">Email</string>
+    <string name="login">Login</string>
+    <string name="login_gmail">Login with Gmail</string>
+    <string name="first_time">New here?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <!--strings for sign_up-->
+    <string name="prompt_name_first">First name</string>
+    <string name="prompt_name_last">Last name</string>
+    <string name="prompt_create_password">Create password</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="gmail_signup">Sign up with Gmail</string>
+    <string name="or">Or</string>
+    <!--custom-->
+    <string name="prompt_phone_number">Phone number</string>
+    <string name="caregiver_info">Please enter your parent/caregiver\'s information</string>
+    <string name="targetbgltext">Your target blood glucose range is:</string>
+    <string name="to">to</string>
+    <string name="hello_x">hello </string>
+    <string name="next">Next</string>
+    <!--graph-->
+    <string name="graph">Graph</string>
+    <string name="refresh">Refresh graph</string>
+    <!--table-->
+    <string name="table">Table</string>
+    <string name="empty_not_saved">Input not saved</string>
+    <!--analysis-->
+    <string name="analysis">Analysis</string>
+    <string name="noAnalysis">No analysis available</string>
+    <!--input-->
+    <string name="bgl_text">My blood sugar level is:</string>
+    <string name="mmolL">mmol/L</string>
+    <string name="time">Date/Time</string>
+    <string name="date">Choose Date</string>
+    <string name="datepicker">datePicker</string>
+    <string name="date_display">Date:</string>
+    <string name="time_button">Choose Time</string>
+    <string name="timepicker">timePicker</string>
+    <string name="time_display">Time:</string>
+    <string name="submit">Submit</string>
+    <!--settings-->
+    <string name="Settings">Settings</string>
+    <string name="nurse">Add school nurse</string>
+    <string name="plus">+ phone number</string>
+    <string name="pop_up_title">Enable pop-ups</string>
+    <string name="pop_up_yes_summary">Allow pop-ups on blood glucose input</string>
+    <string name="pop_up_no_summary">Don\'t allow pop-ups on blood glucose input</string>
+    <string name="ideal_bgl_title">Target blood glucose range</string>
+    <string name="ideal_bgl_summary">Change target blood glucose range</string>
+    <string name="email_title">Change contact email</string>
+    <string name="contact_system">Change method of contact</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="email_summary">mamjjury@gmail.com</string>
+    <string name="phone_title">Change contact phone number</string>
+    <string name="phone_summary">+64212687924</string>
+    <string name="units_title">Change units</string>
+    <string name="units_summary">mmol/L</string>
+    <string-array name="units_list">
+        <item>mmol/L</item>
+        <item>mg/dL</item>
+    </string-array>
+    <string-array name="units_titles">
+        <item>International Standard</item>
+        <item>US</item>
+    </string-array>
+    <!--Pop-ups-->
+    <string name="PopupHigh">Your blood glucose is above target. Correct or increase your temp basal rate as necessary.</string>
+    <string name="PopupLow">Your blood glucose is below target. Eat or decrease your temp basal rate as necessary.</string>
+    <!--Call for help-->
+    <string name="Call">Call for Help</string>
+    <string name="Parent">Parent/Caregiver</string>
+    <string name="Nurse">School Nurse</string>
+    <string name="Starship">Starship</string>
+    <string name="Ambulance">Ambulance</string>
+    <string name="custom">Or, type a phone number to call</string>
+    <string name="BGLs">Blood Glucose Levels</string>
+
+</resources>
